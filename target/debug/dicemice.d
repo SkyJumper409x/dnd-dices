@@ -1,1 +1,1 @@
-/home/wynter/src/dicemice/target/debug/dicemice: /home/wynter/src/dicemice/src/main.rs
+/home/wynter/gitclone/dnd-dices/target/debug/dicemice: /home/wynter/gitclone/dnd-dices/src/main.rs
